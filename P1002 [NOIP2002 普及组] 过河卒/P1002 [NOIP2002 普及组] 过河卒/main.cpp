@@ -1,4 +1,11 @@
 //题目链接 https://www.luogu.com.cn/problem/P1002
+
+/*
+* 解题思路
+*	动态规划
+*	从原点(0,0)到点(i,j)的路径总数为: dp[i][j] = dp[i-1][j] + dp[i][j-1]
+*/
+
 #include<iostream>
 using namespace std;
 int main() {
@@ -19,11 +26,11 @@ int main() {
 
 	for (int i = a_x; i <= a_x + b_x; i++) {
 		for (int j = a_y; j <= a_y + b_y; j++) {
-			if (k[i][j])
+			if (k[i][j])//排除掉"马的控制点"
 				continue;
 			else {
 				if (i == a_x && j == a_y)
-					dp[a_x][a_y] = 1;
+					dp[a_x][a_y] = 1;//初始化第一个点
 				else
 					dp[i][j] = dp[i - 1][j] + dp[i][j - 1];
 			}
