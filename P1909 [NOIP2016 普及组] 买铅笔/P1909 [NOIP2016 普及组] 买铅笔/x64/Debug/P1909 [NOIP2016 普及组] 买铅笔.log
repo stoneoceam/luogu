@@ -1,0 +1,3 @@
+﻿  main.cpp
+E:\luogu\P1909 [NOIP2016 普及组] 买铅笔\P1909 [NOIP2016 普及组] 买铅笔\main.cpp(24,11): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+  P1909 [NOIP2016 普及组] 买铅笔.vcxproj -> E:\luogu\P1909 [NOIP2016 普及组] 买铅笔\x64\Debug\P1909 [NOIP2016 普及组] 买铅笔.exe
