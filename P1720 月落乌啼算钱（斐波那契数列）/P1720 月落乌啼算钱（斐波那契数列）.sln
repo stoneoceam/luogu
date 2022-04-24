@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P1720 月落乌啼算钱（斐波那契数列）", "P1720 月落乌啼算钱（斐波那契数列）\P1720 月落乌啼算钱（斐波那契数列）.vcxproj", "{03CF8E21-02B5-480A-9D68-93CCC1AAE022}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03CF8E21-02B5-480A-9D68-93CCC1AAE022}.Debug|x64.ActiveCfg = Debug|x64
+		{03CF8E21-02B5-480A-9D68-93CCC1AAE022}.Debug|x64.Build.0 = Debug|x64
+		{03CF8E21-02B5-480A-9D68-93CCC1AAE022}.Debug|x86.ActiveCfg = Debug|Win32
+		{03CF8E21-02B5-480A-9D68-93CCC1AAE022}.Debug|x86.Build.0 = Debug|Win32
+		{03CF8E21-02B5-480A-9D68-93CCC1AAE022}.Release|x64.ActiveCfg = Release|x64
+		{03CF8E21-02B5-480A-9D68-93CCC1AAE022}.Release|x64.Build.0 = Release|x64
+		{03CF8E21-02B5-480A-9D68-93CCC1AAE022}.Release|x86.ActiveCfg = Release|Win32
+		{03CF8E21-02B5-480A-9D68-93CCC1AAE022}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7F7B00A-9ACA-4BA6-BD7D-0EB400EE7458}
+	EndGlobalSection
+EndGlobal
