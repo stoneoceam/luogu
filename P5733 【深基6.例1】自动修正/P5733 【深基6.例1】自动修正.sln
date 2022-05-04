@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P5733 【深基6.例1】自动修正", "P5733 【深基6.例1】自动修正\P5733 【深基6.例1】自动修正.vcxproj", "{252C7E5F-43B1-4743-B3EF-D769AFB70EEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{252C7E5F-43B1-4743-B3EF-D769AFB70EEF}.Debug|x64.ActiveCfg = Debug|x64
+		{252C7E5F-43B1-4743-B3EF-D769AFB70EEF}.Debug|x64.Build.0 = Debug|x64
+		{252C7E5F-43B1-4743-B3EF-D769AFB70EEF}.Debug|x86.ActiveCfg = Debug|Win32
+		{252C7E5F-43B1-4743-B3EF-D769AFB70EEF}.Debug|x86.Build.0 = Debug|Win32
+		{252C7E5F-43B1-4743-B3EF-D769AFB70EEF}.Release|x64.ActiveCfg = Release|x64
+		{252C7E5F-43B1-4743-B3EF-D769AFB70EEF}.Release|x64.Build.0 = Release|x64
+		{252C7E5F-43B1-4743-B3EF-D769AFB70EEF}.Release|x86.ActiveCfg = Release|Win32
+		{252C7E5F-43B1-4743-B3EF-D769AFB70EEF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F420A9E-3E17-466D-92E8-84B030FC23E4}
+	EndGlobalSection
+EndGlobal
