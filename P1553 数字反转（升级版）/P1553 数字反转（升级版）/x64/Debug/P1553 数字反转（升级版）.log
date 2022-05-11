@@ -1,0 +1,4 @@
+﻿  main.cpp
+E:\luogu\P1553 数字反转（升级版）\P1553 数字反转（升级版）\main.cpp(12,2): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\luogu\P1553 数字反转（升级版）\P1553 数字反转（升级版）\main.cpp(74,4): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  P1553 数字反转（升级版）.vcxproj -> E:\luogu\P1553 数字反转（升级版）\x64\Debug\P1553 数字反转（升级版）.exe
