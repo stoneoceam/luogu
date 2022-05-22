@@ -1,0 +1,3 @@
+﻿  main.cpp
+E:\luogu\P5461 赦免战俘\P5461 赦免战俘\main.cpp(30,10): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  P5461 赦免战俘.vcxproj -> E:\luogu\P5461 赦免战俘\x64\Debug\P5461 赦免战俘.exe
