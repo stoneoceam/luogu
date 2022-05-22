@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P5739 【深基7.例7】计算阶乘", "P5739 【深基7.例7】计算阶乘\P5739 【深基7.例7】计算阶乘.vcxproj", "{B66DB0A6-E184-4073-B3FE-7562AAE08ABA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B66DB0A6-E184-4073-B3FE-7562AAE08ABA}.Debug|x64.ActiveCfg = Debug|x64
+		{B66DB0A6-E184-4073-B3FE-7562AAE08ABA}.Debug|x64.Build.0 = Debug|x64
+		{B66DB0A6-E184-4073-B3FE-7562AAE08ABA}.Debug|x86.ActiveCfg = Debug|Win32
+		{B66DB0A6-E184-4073-B3FE-7562AAE08ABA}.Debug|x86.Build.0 = Debug|Win32
+		{B66DB0A6-E184-4073-B3FE-7562AAE08ABA}.Release|x64.ActiveCfg = Release|x64
+		{B66DB0A6-E184-4073-B3FE-7562AAE08ABA}.Release|x64.Build.0 = Release|x64
+		{B66DB0A6-E184-4073-B3FE-7562AAE08ABA}.Release|x86.ActiveCfg = Release|Win32
+		{B66DB0A6-E184-4073-B3FE-7562AAE08ABA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D9AFEBD-A904-41A7-B026-087936DBE36D}
+	EndGlobalSection
+EndGlobal
