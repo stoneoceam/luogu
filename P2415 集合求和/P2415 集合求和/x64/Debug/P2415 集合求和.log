@@ -1,0 +1,3 @@
+﻿  main.cpp
+E:\luogu\P2415 集合求和\P2415 集合求和\main.cpp(23,12): warning C4244: “*=”: 从“double”转换到“__int64”，可能丢失数据
+  P2415 集合求和.vcxproj -> E:\luogu\P2415 集合求和\x64\Debug\P2415 集合求和.exe
