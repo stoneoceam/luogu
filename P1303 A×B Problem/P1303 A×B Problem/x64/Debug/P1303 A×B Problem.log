@@ -1,0 +1,6 @@
+﻿  main.cpp
+E:\luogu\P1303 A×B Problem\P1303 A×B Problem\main.cpp(9,26): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\luogu\P1303 A×B Problem\P1303 A×B Problem\main.cpp(10,26): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\luogu\P1303 A×B Problem\P1303 A×B Problem\main.cpp(54,26): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\luogu\P1303 A×B Problem\P1303 A×B Problem\main.cpp(55,26): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  P1303 A×B Problem.vcxproj -> E:\luogu\P1303 A×B Problem\x64\Debug\P1303 A×B Problem.exe
