@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P1518 [USACO2.4]两只塔姆沃斯牛 The Tamworth Two", "P1518 [USACO2.4]两只塔姆沃斯牛 The Tamworth Two\P1518 [USACO2.4]两只塔姆沃斯牛 The Tamworth Two.vcxproj", "{EA151B7D-B750-4B41-8BE7-43E53EC833CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA151B7D-B750-4B41-8BE7-43E53EC833CB}.Debug|x64.ActiveCfg = Debug|x64
+		{EA151B7D-B750-4B41-8BE7-43E53EC833CB}.Debug|x64.Build.0 = Debug|x64
+		{EA151B7D-B750-4B41-8BE7-43E53EC833CB}.Debug|x86.ActiveCfg = Debug|Win32
+		{EA151B7D-B750-4B41-8BE7-43E53EC833CB}.Debug|x86.Build.0 = Debug|Win32
+		{EA151B7D-B750-4B41-8BE7-43E53EC833CB}.Release|x64.ActiveCfg = Release|x64
+		{EA151B7D-B750-4B41-8BE7-43E53EC833CB}.Release|x64.Build.0 = Release|x64
+		{EA151B7D-B750-4B41-8BE7-43E53EC833CB}.Release|x86.ActiveCfg = Release|Win32
+		{EA151B7D-B750-4B41-8BE7-43E53EC833CB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CC7C9A0-8B6F-4D48-8C5C-40ADAD414394}
+	EndGlobalSection
+EndGlobal
